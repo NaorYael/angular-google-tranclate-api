@@ -1,3 +1,3 @@
-# angular-ivy-wwjcq3
+# angular-google-translate-api
 
 [Edit on StackBlitz ⚡️](https://stackblitz.com/edit/angular-ivy-wwjcq3)
